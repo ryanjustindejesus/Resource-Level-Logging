@@ -1,5 +1,6 @@
 <h1>Resource Level Logging</h1>
-<b>This tutorial outlines the configuration of storage accounts, key vaults, and log analytics workspace</b>
+
+- <b>This tutorial outlines the configuration of storage accounts, key vaults, and log analytics workspace</b>
 
 <h2>Environments and Technologies Used</h2>
 
